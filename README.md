@@ -1,4 +1,4 @@
-# Ames House Prices — Regression & Ensemble
+# Ames House Prices - Regression & Ensemble
 
 A machine learning project based on the **Kaggle House Prices: Advanced Regression Techniques** competition.
 
